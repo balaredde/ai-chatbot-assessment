@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+cb_env/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Hugging Face Cache
+.cache/
+
+# Test files (optional - uncomment if you don't want to push tests)
+# test_*.py
+# tests/
+
+# Model files (too large for GitHub)
+*.bin
+*.pt
+*.pth
+*.onnx
+*.safetensors
+
+# Large data files
+*.csv
+*.json
+data/
