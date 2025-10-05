@@ -25,7 +25,6 @@ assessment/
 ├── model_loader.py      # Model and tokenizer loading with pipeline
 ├── chat_memory.py       # Sliding window conversation buffer
 ├── interface.py         # CLI loop and user interaction
-├── main.py             # Application entry point (alternative)
 ├── requirements.txt    # Python dependencies
 ├── README.md          # This file
 └── tests/
